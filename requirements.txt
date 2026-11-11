@@ -1,0 +1,4 @@
+numpy>=1.24
+matplotlib>=3.7
+# optional, for ear.py --words:  faster-whisper, soundfile
+# optional, for ear.py --tags:   onnxruntime, soundfile
